@@ -1,5 +1,5 @@
 (English Version)
-
+                                                                     PHISHING DETECTION SYSTEM
 📌 Project Description
 
 ✔️ This project is a machine learning-based system designed to automatically detect whether an email is a phishing attempt or a legitimate message by analyzing its content. The primary goal is to enhance email       security and protect users against phishing and identity theft attacks.
@@ -84,6 +84,7 @@
 ✔️ If you have any suggestions, feedback, or would like to contribute, please feel free to contact me at: gvnkzc847@gmail.com . Your input is highly appreciated as it helps me improve the project and better support the community.
 
 
+                                                               OLTALAMA SALDIRISI TESPİT SİSTEMİ
 (Türkçe Versiyonu)
 
 📌 Proje Tanımı
