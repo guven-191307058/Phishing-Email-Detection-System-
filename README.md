@@ -37,7 +37,7 @@
 
    ⭐ Spelling Correction: The SpellChecker library checks and calculates the rate of spelling errors in the email text, which is an important feature for phishing detection.
 
-   ⭐ Noise Removal: Regular expressions (re module) help to remove unnecessary characters and patterns like multiple spaces, special symbols, or encoded content.
+   ⭐ Removing Unwanted Characters: Regular expressions (re module) help to remove unnecessary characters and patterns like multiple spaces, special symbols, or encoded content.
 
 📍 Feature Extraction:
 
@@ -117,7 +117,7 @@
 
 ⭐ Yazım Düzeltme: SpellChecker kütüphanesi ile yazım hataları tespit edilir ve hata oranı hesaplanır, bu phishing tespiti için önemli bir özelliktir.
 
-⭐ Gürültü Giderme: re (regular expressions) modülü ile gereksiz boşluklar, özel karakterler ve kodlanmış içerikler temizlenir.
+⭐ İstenmeyen Karakterlerin Kaldırılması: re (regular expressions) modülü ile gereksiz boşluklar, özel karakterler ve kodlanmış içerikler temizlenir.
 
 📍 Özellik Çıkarımı:
 ✔️ İşlenmiş e-postalardan model için çeşitli özellikler çıkarılır:
